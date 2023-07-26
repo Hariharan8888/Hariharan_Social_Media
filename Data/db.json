@@ -1,0 +1,40 @@
+{
+  "Posts": [
+    {
+      "id": 1,
+      "title": "My 1st Post",
+      "datatime": "july 1",
+      "body": "Made a video"
+    },
+    {
+      "id": 2,
+      "title": "My 2st Post",
+      "datatime": "Auguest 1",
+      "body": "Learning SOmething new"
+    },
+    {
+      "id": 3,
+      "title": "My 3st Post",
+      "datatime": "sep 1",
+      "body": "Made a Movie"
+    },
+    {
+      "id": 4,
+      "title": "My 4st Post",
+      "datatime": "Dec 1",
+      "body": "Reading messages"
+    },
+    {
+      "id": 5,
+      "title": "Vanakam Tamila",
+      "datetime": "July 23 2023,  Jul 23, 2023",
+      "body": "Good "
+    },
+    {
+      "id": 6,
+      "title": "hiii",
+      "datetime": "July 25 2023,  Jul 25, 2023",
+      "body": "hmhmvh"
+    }
+  ]
+}
